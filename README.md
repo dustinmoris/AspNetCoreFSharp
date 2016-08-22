@@ -1,6 +1,8 @@
-# ASP.NET Core web application in F#
+# ASP.NET Core web application in FSharp
 
-An empty ASP.NET Core web template in F#. This tempalte is the F# equivalent of the empty C# ASP.NET Core web application template in Visual Studio.
+An empty ASP.NET Core web application template in F#.
+
+This tempalte is the F# equivalent of the empty C# ASP.NET Core web application template in Visual Studio.
 
 ## How to get it running
 
